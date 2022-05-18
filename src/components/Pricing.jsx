@@ -21,7 +21,7 @@ const Pricing = () => {
         <div className=" grid md:grid-cols-2  ">
           <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative ">
             <span className="uppercase px-3 py-1 bg-indigo-200 text-indigo-900 rounded-2xl text-sm">
-              Basic
+              Student
             </span>
             <div>
               <p className="text-6xl font-bold py-4 flex">
@@ -62,7 +62,7 @@ const Pricing = () => {
           </div>
           <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative ">
             <span className="uppercase px-3 py-1 bg-indigo-200 text-indigo-900 rounded-2xl text-sm">
-              Premium
+              Business-premium
             </span>
             <div>
               <p className="text-6xl font-bold py-4 flex">
